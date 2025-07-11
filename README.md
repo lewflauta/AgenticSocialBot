@@ -112,16 +112,4 @@ OPENAI_API_KEY=your_openai_key_here
 * UI for uploading video links and managing posts
 * Multi-language support
 
----
 
-## 🤝 License
-
-MIT License
-
----
-
-Let me know if you'd like:
-
-* A badge-based header section (`build | license | version`)
-* A "demo GIF" section
-* Or a `docs/` folder with diagrams or tutorials
