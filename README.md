@@ -1,7 +1,5 @@
 # AgenticSocialBot
 
-Here's your explanation adapted for a clean and professional **GitHub README.md** file format:
-
 ---
 
 # 🧠 Multi-Agent Social Media Automation Bot
